@@ -43,7 +43,7 @@ str2=input()
 
 ```
 ## Output:
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/1456de64-9be8-4b45-ad8a-a15cf9c1d9ec"/>
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/1456de64-9be8-4b45-ad8a-a15cf9c1d9ec"/>
 
 ## Result:
 Thus the above program was executed successfully for searching the substring at respective index.
